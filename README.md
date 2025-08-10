@@ -3,6 +3,7 @@
 > **A simple Android application demonstrating the use of custom adapters to display lists of data. Built with Kotlin and XML.**
 
 ---
+App Download Link : 
 
 ## 🚀 Features
 
@@ -45,7 +46,7 @@ com.surajvanshsv.adaptersapp/
 1.  **Clone this repo:**
     
 ```
-    git clone https://github.com/your-github-username/AdaptersApp.git
+    git clone https://github.com/surajpsk12/AdaptersApp.git
     cd AdaptersApp
 ```
 
@@ -72,11 +73,12 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📜 License
 
-MIT © 2024 [Your Name](https://github.com/your-github-username)
+MIT © 2024 [Your Name](https://github.com/surajpsk12)
 
 ---
 
 ## 🌐 Connect With Me
 
-*   🔗 [LinkedIn - Your Name](https://www.linkedin.com/in/your-linkedin-profile/)
-*   💻 [GitHub - your-github-username](https://github.com/your-github-username)
+* 🔗 [LinkedIn - Suraj Kumar](https://www.linkedin.com/in/surajvansh12/)
+* 💻 [GitHub - surajpsk12](https://github.com/surajpsk12)
+  
